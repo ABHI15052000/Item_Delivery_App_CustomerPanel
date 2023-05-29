@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "529796645033",
+    "project_id": "zwigato-9b391",
+    "storage_bucket": "zwigato-9b391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529796645033:android:ceb2149b9408b011c169b8",
+        "android_client_info": {
+          "package_name": "com.enact.zwigatocustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529796645033-2796ed9ifbpmf7khsck8bgqfbm5p8ds2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enact.zwigatocustomer",
+            "certificate_hash": "f09b3ff07c4222a84b63e9af15935052892c351b"
+          }
+        },
+        {
+          "client_id": "529796645033-ceviqj13sfohes57e2rmt9fqruqm8t7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enact.zwigatocustomer",
+            "certificate_hash": "830bbafa0acafc7460c3b1e68ba8316177dfa38b"
+          }
+        },
+        {
+          "client_id": "529796645033-4o0l08cpocp87u2t55eit2b9r5evst4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmVEsOKthoAnnmqsXama6fDCZrtIuNqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529796645033-4o0l08cpocp87u2t55eit2b9r5evst4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529796645033-g981a514ukqv50mdddp66e11qhrmkss7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zwigatoCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529796645033:android:52181763464185bcc169b8",
+        "android_client_info": {
+          "package_name": "com.enact.zwigatofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529796645033-38mdjum9lt3au1d999hr092hn5gdiuej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enact.zwigatofinal",
+            "certificate_hash": "a0a3aee6e42676062f19af71f9918392413ee0f4"
+          }
+        },
+        {
+          "client_id": "529796645033-4o0l08cpocp87u2t55eit2b9r5evst4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmVEsOKthoAnnmqsXama6fDCZrtIuNqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529796645033-4o0l08cpocp87u2t55eit2b9r5evst4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529796645033-g981a514ukqv50mdddp66e11qhrmkss7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zwigatoCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
